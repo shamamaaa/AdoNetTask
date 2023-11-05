@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{C48120A3-59E4-4B2C-9790-9010BE5754F3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ADONETtask/Data/AzureSql.cs">
+    <Files>
+      <File FileName="ADONETtask/Program.cs" Line="37" Column="1" />
+      <File FileName="ADONETtask/Data/AzureSql.cs" Line="26" Column="1" />
+      <File FileName="ADONETtask/Models/Music.cs" Line="7" Column="23" />
+      <File FileName="ADONETtask/Models/Artist.cs" Line="11" Column="23" />
+      <File FileName="ADONETtask/Services/MusicService.cs" Line="66" Column="28" />
+      <File FileName="ADONETtask/Services/ArtistService.cs" Line="68" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ADONETtask" expanded="True">
+            <Node name="ADONETtask" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="AzureSql.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ADONETtask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
